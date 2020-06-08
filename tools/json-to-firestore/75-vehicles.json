@@ -1,0 +1,755 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "make": "Subaru",
+      "model": "Justy",
+      "year": 1990,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "make": "Mitsubishi",
+      "model": "Precis",
+      "year": 1986,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "make": "Mazda",
+      "model": "B-Series",
+      "year": 1987,
+      "package": "SE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "S10",
+      "year": 1996,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "make": "Mitsubishi",
+      "model": "Excel",
+      "year": 1988,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "_id": 6,
+      "make": "Toyota",
+      "model": "MR2",
+      "year": 1995,
+      "package": "SE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2004,
+      "package": "SE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "make": "Mazda",
+      "model": "Miata MX-5",
+      "year": 2008,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "make": "Toyota",
+      "model": "Yaris",
+      "year": 2008,
+      "package": "SE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "make": "Pontiac",
+      "model": "Firefly",
+      "year": 1991,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 11,
+      "make": "Honda",
+      "model": "Element",
+      "year": 2003,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 12,
+      "make": "BMW",
+      "model": "X5",
+      "year": 2007,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "make": "Chevrolet",
+      "model": "HHR",
+      "year": 2007,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 14,
+      "make": "Buick",
+      "model": "Century",
+      "year": 1985,
+      "package": "SE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 15,
+      "make": "Saturn",
+      "model": "Sky",
+      "year": 2008,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 16,
+      "make": "Land Rover",
+      "model": "Discovery",
+      "year": 2001,
+      "package": "SE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 17,
+      "make": "Cadillac",
+      "model": "XLR",
+      "year": 2007,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 18,
+      "make": "GMC",
+      "model": "Sierra 2500",
+      "year": 2011,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 19,
+      "make": "Dodge",
+      "model": "Intrepid",
+      "year": 2002,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 20,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 1997,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 21,
+      "make": "Chevrolet",
+      "model": "G-Series G10",
+      "year": 1993,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 22,
+      "make": "Toyota",
+      "model": "Supra",
+      "year": 1992,
+      "package": "SE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 23,
+      "make": "Mitsubishi",
+      "model": "L300",
+      "year": 1990,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 24,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "year": 2010,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 25,
+      "make": "Suzuki",
+      "model": "SX4",
+      "year": 2007,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 26,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "year": 2004,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 27,
+      "make": "Infiniti",
+      "model": "M",
+      "year": 2003,
+      "package": "SE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 28,
+      "make": "Ford",
+      "model": "Escort",
+      "year": 1987,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 29,
+      "make": "BMW",
+      "model": "M5",
+      "year": 1992,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 30,
+      "make": "Chrysler",
+      "model": "Grand Voyager",
+      "year": 2000,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 31,
+      "make": "BMW",
+      "model": "745",
+      "year": 2002,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 32,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2008,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 33,
+      "make": "Volkswagen",
+      "model": "GTI",
+      "year": 1992,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 34,
+      "make": "Saturn",
+      "model": "Ion",
+      "year": 2003,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 35,
+      "make": "Mitsubishi",
+      "model": "Cordia",
+      "year": 1984,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 36,
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": 1987,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 37,
+      "make": "Lexus",
+      "model": "LS",
+      "year": 2010,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 38,
+      "make": "Ford",
+      "model": "Escape",
+      "year": 2001,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 39,
+      "make": "Dodge",
+      "model": "Caravan",
+      "year": 1997,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 40,
+      "make": "Nissan",
+      "model": "Maxima",
+      "year": 2000,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 41,
+      "make": "Infiniti",
+      "model": "EX",
+      "year": 2008,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 42,
+      "make": "Hyundai",
+      "model": "Accent",
+      "year": 2011,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 43,
+      "make": "Ford",
+      "model": "Econoline E350",
+      "year": 1992,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 44,
+      "make": "Suzuki",
+      "model": "Verona",
+      "year": 2006,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 45,
+      "make": "Honda",
+      "model": "Insight",
+      "year": 2012,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 46,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 1998,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 47,
+      "make": "Volkswagen",
+      "model": "Corrado",
+      "year": 1994,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 48,
+      "make": "Chevrolet",
+      "model": "Express 1500",
+      "year": 2002,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 49,
+      "make": "Suzuki",
+      "model": "Swift",
+      "year": 2004,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 50,
+      "make": "Ford",
+      "model": "F-Series",
+      "year": 2006,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 51,
+      "make": "MINI",
+      "model": "Cooper",
+      "year": 2005,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 52,
+      "make": "Buick",
+      "model": "LeSabre",
+      "year": 2004,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 53,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2003,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 54,
+      "make": "GMC",
+      "model": "Safari",
+      "year": 1996,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 55,
+      "make": "Mitsubishi",
+      "model": "Diamante",
+      "year": 2005,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 56,
+      "make": "Chevrolet",
+      "model": "Volt",
+      "year": 2011,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 57,
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "year": 1966,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 58,
+      "make": "Ford",
+      "model": "F-Series",
+      "year": 1985,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 59,
+      "make": "GMC",
+      "model": "Yukon XL 2500",
+      "year": 2009,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 60,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2004,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 61,
+      "make": "Honda",
+      "model": "Pilot",
+      "year": 2011,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 62,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2008,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 63,
+      "make": "GMC",
+      "model": "Savana 2500",
+      "year": 2010,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 64,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2004,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 65,
+      "make": "Pontiac",
+      "model": "Firebird",
+      "year": 1989,
+      "package": "SE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 66,
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "year": 1980,
+      "package": "LE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 67,
+      "make": "Daihatsu",
+      "model": "Rocky",
+      "year": 1992,
+      "package": "XLE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 68,
+      "make": "Dodge",
+      "model": "Caliber",
+      "year": 2010,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 69,
+      "make": "Pontiac",
+      "model": "GTO",
+      "year": 1970,
+      "package": "SE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 70,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 1975,
+      "package": "SE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 71,
+      "make": "Ford",
+      "model": "GT500",
+      "year": 2007,
+      "package": "XLE",
+      "fuelType": "Gas",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 72,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "year": 1997,
+      "package": "XSE",
+      "fuelType": "Diesel",
+      "transmission": "Auto",
+      "favorite": false
+    },
+    {
+      "id": 73,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "year": 1999,
+      "package": "LE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 74,
+      "make": "Land Rover",
+      "model": "Discovery",
+      "year": 2011,
+      "package": "XSE",
+      "fuelType": "Gas",
+      "transmission": "Manual",
+      "favorite": false
+    },
+    {
+      "id": 75,
+      "make": "Mercedes-Benz",
+      "model": "600SEC",
+      "year": 1993,
+      "package": "SE",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "favorite": false
+    }
+  ]
+}
